@@ -1,6 +1,6 @@
 # bottom_navigation_bar
+bottom navigation bar in 5 packages
 
-A new Flutter project.
 
 ## Getting Started
 
